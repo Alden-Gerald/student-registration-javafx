@@ -1,0 +1,12 @@
+bin/
+out/
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.class
+*.jar
+*.log
+Thumbs.db
+.DS_Store
